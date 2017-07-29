@@ -1,9 +1,0 @@
-.idea
-
-node_modules
-
-bundle
-build
-*.bundle.js
-
-*.log
